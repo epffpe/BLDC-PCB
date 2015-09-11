@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=C Pin=P3-1
+Removed Pin From Net: NetName=B Pin=P3-2
+Added Component: Designator=P5(RegletaPCBx3)
+Added Component: Designator=P6(RegletaPCBx3)
+Added Pin To Net: NetName=A Pin=P3-1
+Added Pin To Net: NetName=A Pin=P3-2
+Added Pin To Net: NetName=B Pin=P5-1
+Added Pin To Net: NetName=B Pin=P5-2
+Added Pin To Net: NetName=B Pin=P5-3
+Added Pin To Net: NetName=C Pin=P6-1
+Added Pin To Net: NetName=C Pin=P6-2
+Added Pin To Net: NetName=C Pin=P6-3
+Added Member To Class: ClassName=ControlPWMSin Member=Component P5 RegletaPCB
+Added Member To Class: ClassName=ControlPWMSin Member=Component P6 RegletaPCB

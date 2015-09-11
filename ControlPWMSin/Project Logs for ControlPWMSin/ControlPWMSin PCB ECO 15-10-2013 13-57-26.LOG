@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCCIN Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Added Component: Designator=P7(RegletaPCBx3)
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=VIN Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Member To Class: ClassName=ControlPWMSin Member=Component P7 RegletaPCB
